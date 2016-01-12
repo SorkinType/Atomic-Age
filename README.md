@@ -5,7 +5,7 @@ Atomic Age font is based on American lettering from the 1940-1960, but specifica
 
 Atomic Age is useful for creating short, eye-catching text.
 
-Atomic Age currently features one styles: Regular
+Atomic Age currently features one style: Regular
 
 ## License
 
