@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="1103"/>
+  <unicode hex="0076"/>
+  <outline>
+    <contour>
+      <point x="403" y="0" type="line" name="hr01"/>
+      <point x="709" y="0" type="line"/>
+      <point x="1072" y="1047" type="line"/>
+      <point x="830" y="1047" type="line"/>
+      <point x="557" y="168" type="line" name="hr02"/>
+      <point x="284" y="1047" type="line"/>
+      <point x="41" y="1047" type="line"/>
+    </contour>
+    <contour>
+      <point x="551" y="0" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="551" y="1530" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.986</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>150</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>506</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="21" width="-21" />
+      <hstem pos="1047" width="-20" />
+      <vstem pos="36" width="1031" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="0" width="167" />
+      <hstem pos="1047" width="-20" />
+      <vstem pos="36" width="1031" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

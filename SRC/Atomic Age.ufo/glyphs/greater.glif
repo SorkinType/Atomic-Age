@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="1285"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="270" y="161" type="line" name="hr00"/>
+      <point x="1106" y="429" type="line"/>
+      <point x="1106" y="615" type="line"/>
+      <point x="270" y="883" type="line"/>
+      <point x="270" y="701" type="line"/>
+      <point x="918" y="523" type="line"/>
+      <point x="270" y="342" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="161" width="722" />
+      <vstem pos="270" width="836" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

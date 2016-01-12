@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="1888"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="230" y="254" type="line" smooth="yes" name="hr00"/>
+      <point x="230" y="114"/>
+      <point x="316" y="0"/>
+      <point x="421" y="0" type="curve" smooth="yes"/>
+      <point x="792" y="0" type="line" smooth="yes"/>
+      <point x="857" y="0"/>
+      <point x="920" y="48"/>
+      <point x="958" y="124" type="curve"/>
+      <point x="996" y="48"/>
+      <point x="1059" y="0"/>
+      <point x="1124" y="0" type="curve" smooth="yes"/>
+      <point x="1497" y="0" type="line" smooth="yes"/>
+      <point x="1603" y="0"/>
+      <point x="1688" y="114"/>
+      <point x="1688" y="254" type="curve" smooth="yes"/>
+      <point x="1688" y="1517" type="line"/>
+      <point x="1449" y="1517" type="line"/>
+      <point x="1449" y="172" type="line"/>
+      <point x="1079" y="172" type="line"/>
+      <point x="1079" y="1517" type="line"/>
+      <point x="839" y="1517" type="line"/>
+      <point x="839" y="172" type="line"/>
+      <point x="469" y="172" type="line"/>
+      <point x="469" y="1517" type="line"/>
+      <point x="141" y="1517" type="line" smooth="yes"/>
+      <point x="53" y="1517"/>
+      <point x="-24" y="1440"/>
+      <point x="-34" y="1346" type="curve"/>
+      <point x="230" y="1346" type="line"/>
+    </contour>
+    <contour>
+      <point x="962" y="1770" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.986</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="0" width="172" />
+      <hstem pos="1346" width="171" />
+      <vstem3 stem3List="230,239,839,240,1449,239" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

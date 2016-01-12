@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="1327"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="296" y="1731" type="curve" name="hr01"/>
+      <point x="419" y="1731" type="line"/>
+      <point x="468" y="1830" type="line"/>
+      <point x="551" y="1830" type="line"/>
+      <point x="599" y="1742"/>
+      <point x="697" y="1678"/>
+      <point x="807" y="1678" type="curve" smooth="yes" name="hr02"/>
+      <point x="935" y="1677"/>
+      <point x="1052" y="1750"/>
+      <point x="1078" y="1860" type="curve" smooth="yes"/>
+      <point x="1085" y="1885"/>
+      <point x="1093" y="1946"/>
+      <point x="1093" y="1946" type="curve"/>
+      <point x="970" y="1946" type="line"/>
+      <point x="922" y="1847" type="line"/>
+      <point x="831" y="1847" type="line"/>
+      <point x="784" y="1936"/>
+      <point x="688" y="1999"/>
+      <point x="584" y="1999" type="curve" smooth="yes" name="hr03"/>
+      <point x="454" y="1999"/>
+      <point x="335" y="1924"/>
+      <point x="313" y="1817" type="curve" smooth="yes"/>
+      <point x="306" y="1784"/>
+      <point x="302" y="1765"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="1831" width="169" />
+      <vstem pos="296" width="797" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="1679" width="169" />
+      <vstem pos="296" width="797" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="1831" width="169" />
+      <vstem pos="296" width="797" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

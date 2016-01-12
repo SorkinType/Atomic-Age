@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1450"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="546" y="0" type="line" name="hr01"/>
+      <point x="872" y="0" type="line"/>
+      <point x="1306" y="1700" type="line"/>
+      <point x="1067" y="1700" type="line"/>
+      <point x="710" y="167" type="line"/>
+      <point x="473" y="1047" type="line"/>
+      <point x="153" y="1047" type="line" name="hr02"/>
+      <point x="153" y="871" type="line"/>
+      <point x="293" y="871" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>150</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>679</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="21" width="-21" />
+      <hstem pos="871" width="176" />
+      <vstem pos="128" width="1193" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="0" width="167" />
+      <hstem pos="871" width="176" />
+      <vstem pos="128" width="1193" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
