@@ -14,6 +14,9 @@ at sorkineben@gmail.com
 
 ChangeLog
 
+11 Jan 2016 (Dave Crossland) Atomic Age v1.006
+- Update name table to remove platformID=1 items
+
 11 Jan 2016 (Eben Sorkin) Atomic Age v1.005
 - Added some Open Type features
 - Added TTFA hinting using version 1.4.1
